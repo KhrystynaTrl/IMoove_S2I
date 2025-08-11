@@ -1,0 +1,7 @@
+
+dist/
+.vscode/
+
+Thumbs.db
+*.tmp
+*.swp
